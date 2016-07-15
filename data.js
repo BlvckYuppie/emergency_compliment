@@ -1,7 +1,7 @@
 var data  = [
   "Good effort!",
   "What a fine sweater!",
-  "I appreciate all of your opinions.",
+  "I appreciat all of your opinions.",
   "I like your style.",
   "Your T-shirt smells fresh.",
   "I love what you've done with the place.",
