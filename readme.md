@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WDI Emergency Compliment- Git-Teams-Starter (Angular)
 
 ## Mission…
